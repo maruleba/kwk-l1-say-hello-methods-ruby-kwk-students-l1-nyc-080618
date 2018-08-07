@@ -1,7 +1,8 @@
 # Build your say_hello method here
 
-def say_hello = Mercy
-your name 
+def your_name = Mercy
 say_hello (your_name)
 puts "Hello # {your_name}!"
 end
+ say_hello ("Briana")
+ say_hello ()
